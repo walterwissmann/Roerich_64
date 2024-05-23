@@ -6,7 +6,7 @@
 
 ## Credits
 
-_Inspired by the [Viesturz TapChanger and ToolChange addon to Klipper](https://github.com/viesturz/tapchanger) and [community](https://discord.com/channels/1119433664799965186/1119434099883511911), along with the [Klipper community](https://discord.klipper3d.org) and all the crazy people that continue to push 3D printers to the limits. :purple_heart:_
+_Inspired by the [Viesturz TapChanger and ToolChange addon to Klipper](https://github.com/viesturz/tapchanger) and [community](https://discord.com/channels/1119433664799965186/1119434099883511911), along with the [LH-Stinger Project](https://github.com/lhndo/LH-Stinger?tab=readme-ov-file#license) and all the crazy people that continue to push 3D printers to the limits. :purple_heart:_
 
 
 <br>
