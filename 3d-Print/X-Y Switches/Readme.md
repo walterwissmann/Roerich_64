@@ -10,7 +10,7 @@ Shuttle Nose | [nose.stl](https://github.com/walterwissmann/Main/blob/Main/3d-Pr
 
 
 
-- ## You should print them up side down with tree support:
+- ## print them up side down with tree support:
 <img width="256px" src="https://github.com/walterwissmann/Main/assets/42293697/62b76956-f20e-4a80-af24-7003b61f2ee0" />
 
 
