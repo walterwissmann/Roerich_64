@@ -8,7 +8,7 @@
 This work is licensed under a [Creative Commons (4.0 International License)  ](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 [**Attribution—Noncommercial—Share Alike**](LICENSE.md)  
 <br>
-<img src="CC.jpg" width="100">  
+<img src="CC.png" width="100">  
 <br>
 
 
