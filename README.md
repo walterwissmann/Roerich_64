@@ -4,8 +4,11 @@
  # 3D-Print 
 
 
-License
-This work is licensed under a Creative Commons (4.0 International License)
-Attribution—Noncommercial—Share Alike
+## License
+This work is licensed under a [Creative Commons (4.0 International License)  ](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[**Attribution—Noncommercial—Share Alike**](LICENSE.md)  
+<br>
+<img src="Images/CC.jpg" width="100">  
+<br>
 
 
