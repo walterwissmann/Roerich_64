@@ -8,8 +8,11 @@ The adapter is the same in each case and only needs to be clicked in in the oppo
 
 There is also a holder for the shuttle so that the print head can be viewed freely from the front or to test the change system by hand.
 
+|||
+|---|---|
+<img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/ce8b93d7-127b-47c2-9531-5587218e3031" /> | <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/01fa5a00-7148-43ca-a86a-e9614f7473ef" /> | 
 
-Dock ![grafik](https://github.com/walterwissmann/Roerich_64/assets/42293697/ce8b93d7-127b-47c2-9531-5587218e3031)
-Stand ![grafik](https://github.com/walterwissmann/Roerich_64/assets/42293697/01fa5a00-7148-43ca-a86a-e9614f7473ef)
+
+
 
 
