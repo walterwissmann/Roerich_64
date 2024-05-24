@@ -6,7 +6,7 @@
 ||||
 |---|---|---|
 | [X-Y Switches](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/X-Y%20Switches/Readme.md) | <img width="128px" src="https://github.com/walterwissmann/Main/assets/42293697/e2dee24b-0d80-4872-9936-2fc653c729c4" /> ||
-| [Dock - Stand](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/Dock%20Stand/Readme.md) |<img width="128px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/ae1cc1e8-355b-475e-8c92-5268c8d0dd26" /> ||
+| [Dock - Stand](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/Dock%20Stand/Readme.md) | <img width="128px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/ae1cc1e8-355b-475e-8c92-5268c8d0dd26" /> |<img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/6c439417-c3db-49e9-866f-febe37b0cd40" /> |
 
 ## Credits
 
@@ -19,5 +19,4 @@ _Inspired by the [Viesturz TapChanger and ToolChange addon to Klipper](https://g
 - @MarcO [ToolChange community](https://discord.com/channels/1119433664799965186/1119433666158932021)
 - @top_gun_de, Moderator at [druckertipps.de](https://forum.drucktipps3d.de/forum/)
 - @team. Voron design
-
 
