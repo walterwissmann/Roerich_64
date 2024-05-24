@@ -5,7 +5,7 @@
 Name | Link
 ---|---
 X Endswitch | [X-Endswitch.stl](https://github.com/walterwissmann/Main/blob/Main/3d-Print/X-Y%20Switches/X-Endswitch.stl)
-Y Endswitch | [Y-Endswitch](https://www.printables.com/de/model/363657-voron-v24-rear-umbilical)
+Y Endswitch | [Voron V2.4 Rear umbilical](https://www.printables.com/de/model/363657-voron-v24-rear-umbilical)
 Shuttle Nose | [nose.stl](https://github.com/walterwissmann/Main/blob/Main/3d-Print/X-Y%20Switches/Nose.stl)
 
 
