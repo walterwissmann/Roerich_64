@@ -14,5 +14,11 @@ There is also a holder for the shuttle so that the print head can be viewed free
 
 
 
+|||
+|---|---|
+| [Dock](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/Dock/Readme.md) | <img width="128px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/c5801752-177f-469b-a209-18f60a1278b7" /> |
+| [Stand](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/Stand/Readme.md) | <img width="128px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/8c29dbbc-9f84-4e9a-9607-30b3b857111e" /> |
+[Adapter](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/Adapter/Readme.md) | <img width="128px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/ccbce366-c42d-4171-9449-6c7e71bcc6cc" /> |
+
 
 
