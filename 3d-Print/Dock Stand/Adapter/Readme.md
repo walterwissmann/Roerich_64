@@ -1,6 +1,6 @@
 # Adapter
 
-Here the adaper in varios art for the ToolHeads.
+Here the adaper in varios art to adapt the ToolHeads.
 
 |||
 |---|---|
