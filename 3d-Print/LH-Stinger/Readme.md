@@ -12,7 +12,7 @@ Many thanks @LH.
 
 |||
 |---|---|
-<img width="500px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/2f9c976b-fc4d-463f-8bdc-ade299447bcb" /> | <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/2b48d0f0-262f-40c1-aefb-99d8682054ee" />
+<img width="500px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/2f9c976b-fc4d-463f-8bdc-ade299447bcb" /> | <img width="200px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/e08c924d-8632-4cdc-b779-b921d9bd9a80" />
 
 To park the LH-Stinger ToolHead to the **Dock** you need the **Dock Adapter** and at the ToolHead the **Fan Grill** with the **LED Lights Holder**.
 
@@ -44,4 +44,9 @@ StealthChanger Adapter (Comming soon)
 |---|---|
 | <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/0623b3be-922c-4519-85ce-e8e89bc4a6c3" /> | <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/9ddf3880-b94e-48cf-a93b-5a03f1a226eb" /> |
 
+## Fan Grill
+
+### Parts
+
+### Assembling
 
