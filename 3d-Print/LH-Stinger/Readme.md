@@ -45,6 +45,7 @@ StealthChanger Adapter (Comming soon)
 | <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/0623b3be-922c-4519-85ce-e8e89bc4a6c3" /> | <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/9ddf3880-b94e-48cf-a93b-5a03f1a226eb" /> |
 
 ## Fan Grill
+<img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/f047ad33-495a-4407-955d-7a8cebd8db62" />
 
 ### Parts
 
