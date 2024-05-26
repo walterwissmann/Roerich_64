@@ -1,6 +1,6 @@
 # Nozzle LED-Light / Docking
 
-The Nozzle LED Fame have two functions: Spend light for the Nozzle and have ears to hang the toolhead in the dock.
+The Nozzle LED Frame have two functions: Spend light for the Nozzle and have ears to hang the toolhead in the dock.
 
 <img width="500px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/024b57dd-82a6-41e4-ae6e-e5be4bd91396" /> 
 
