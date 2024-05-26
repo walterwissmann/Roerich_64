@@ -16,48 +16,13 @@ Many thanks @LH.
 
 To park the LH-Stinger ToolHead to the **Dock** you need the **Dock Adapter** and at the ToolHead the **Fan Grill** with the **LED Lights Holder**.
 
-## LED Lights 
-<img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/7db756c5-b21e-4b53-96db-680b380325d7" />
-
-### Parts 
-
-Name | Link
----|---
-LED Lights Holder | [LED Lights](https://github.com/walterwissmann/Main/blob/Main/3d-Print/X-Y%20Switches/X-Endswitch.stl)
-Fan Grill | [Fan Grill](https://github.com/walterwissmann/Main/blob/Main/3d-Print/LH-Stinger/Fan%20Grill/Readme.md)
-
-### Assembling
-For assembling instructions follow the link to the parts
-
-## TapChanger Adapter
-<img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/327ff10c-5a34-472c-a2e0-ad19fa71886a" />
-
-### Parts
-TapChanger Adapter 
-StealthChanger Adapter (Comming soon)
-
-### Assembling
-
-## Dock Adapter
-
-### Parts
-
-### Assembling
-  
 |||
-|---|---|
-| <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/0623b3be-922c-4519-85ce-e8e89bc4a6c3" /> | <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/9ddf3880-b94e-48cf-a93b-5a03f1a226eb" /> |
+|----|---|
+LED Lights | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/7db756c5-b21e-4b53-96db-680b380325d7" />
+TapChanger Adapter | <img width="250px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/7a576e8e-b509-4bbe-b309-87289e8275a5" />
+Dock Adapter | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/9ddf3880-b94e-48cf-a93b-5a03f1a226eb" /> |
+Fan Grill | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/f047ad33-495a-4407-955d-7a8cebd8db62" />
+Nozzle Cleaner | (comming soon)
 
-## Fan Grill
-<img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/f047ad33-495a-4407-955d-7a8cebd8db62" />
 
-### Parts
-
-### Assembling
-
-## Nozzle Cleaner (comming soon)
-
-### Parts
-
-### Assembling
 
