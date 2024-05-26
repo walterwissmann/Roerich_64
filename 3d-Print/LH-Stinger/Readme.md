@@ -16,14 +16,18 @@ Many thanks @LH.
 
 To park the LH-Stinger ToolHead to the **Dock** you need the **Dock Adapter** and at the ToolHead the **Fan Grill** with the **LED Lights Holder**.
 
-## LED Lights
+## LED Lights 
 <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/7db756c5-b21e-4b53-96db-680b380325d7" />
 
 ### Parts 
-LED Lights Holder
-Fan Grill
+
+Name | Link
+---|---
+LED Lights Holder | [LED Lights](https://github.com/walterwissmann/Main/blob/Main/3d-Print/X-Y%20Switches/X-Endswitch.stl)
+Fan Grill | [Fan Grill](https://github.com/walterwissmann/Main/blob/Main/3d-Print/LH-Stinger/Fan%20Grill/Readme.md)
 
 ### Assembling
+For assembling instructions follow the link to the parts
 
 ## TapChanger Adapter
 <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/327ff10c-5a34-472c-a2e0-ad19fa71886a" />
