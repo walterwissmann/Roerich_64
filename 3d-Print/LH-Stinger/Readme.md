@@ -18,11 +18,13 @@ To park the LH-Stinger ToolHead to the **Dock** you need the **Dock Adapter** an
 
 |||
 |----|---|
-LED Lights | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/7db756c5-b21e-4b53-96db-680b380325d7" />
-TapChanger Adapter | <img width="250px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/7a576e8e-b509-4bbe-b309-87289e8275a5" />
-Dock Adapter | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/9ddf3880-b94e-48cf-a93b-5a03f1a226eb" /> |
-Fan Grill | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/f047ad33-495a-4407-955d-7a8cebd8db62" />
+[Frame Sherpa Mini](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/LH-Stinger/LH-S-TH_TC.stl) |  <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/42843019-1042-40f1-a987-0aae5c3c9034" />
+[LED Lights](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/LH-Stinger/Fan%20Grill/Readme.md) | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/7db756c5-b21e-4b53-96db-680b380325d7" />
+[TapChanger Mount](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/LH-Stinger/LH-S-Mount_TC.stl) | <img width="250px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/7a576e8e-b509-4bbe-b309-87289e8275a5" />
+[Dock Adapter](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/Dock%20Stand/Adapter/LH-S_Dock_Adapter.stl) | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/9ddf3880-b94e-48cf-a93b-5a03f1a226eb" /> |
+[Fan Grill](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/LH-Stinger/Fan%20Grill/Readme.md) | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/f047ad33-495a-4407-955d-7a8cebd8db62" />
 Nozzle Cleaner | (comming soon)
+
 
 
 
