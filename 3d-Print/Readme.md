@@ -19,6 +19,7 @@ _Inspired by the [Viesturz TapChanger and ToolChange addon to Klipper](https://g
 - @MarcO [ToolChange community](https://discord.com/channels/1119433664799965186/1119433666158932021)
 - @top_gun_de, Moderator at [druckertipps.de](https://forum.drucktipps3d.de/forum/)
 - @team. Voron design
+- @team, StealthChanger
 
 
 
