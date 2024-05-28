@@ -40,7 +40,7 @@ Nozzle Cleaner | (comming soon)
 
  <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/8c6b7dae-8025-4cb2-8ac8-fdcd07f8d8d7)" />
 
-3. Combine the pre-wired Nozzle LED, assembling [here](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/LH-Stinger/LED%20Frame/Readme.md), frame with the fan grill and route the cables as shown  
+3. Combine the pre-wired Nozzle LED Frame, assembling [here](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/LH-Stinger/LED%20Frame/Readme.md), with the fan grill and route the cables as shown  
 
  <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/2df0e407-fc26-483e-b067-e37e93614bc7)" />
 
