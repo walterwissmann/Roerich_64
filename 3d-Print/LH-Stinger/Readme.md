@@ -28,7 +28,7 @@ To park the LH-Stinger ToolHead to the **Dock** you need the **Dock Adapter** an
 [Dock Adapter](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/Dock%20Stand/Adapter/LH-S_Dock_Adapter.stl) | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/9ddf3880-b94e-48cf-a93b-5a03f1a226eb" /> | To adapt the ToolHead to the Dock
 [Fan Grill](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/LH-Stinger/Fan%20Grill/Readme.md) | <img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/f047ad33-495a-4407-955d-7a8cebd8db62" />
 Nozzle Cleaner | (comming soon)
-![grafik]()
+
 
 ## Assembling
 
