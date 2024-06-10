@@ -8,7 +8,7 @@ Here the adaper in varios art to adapt the ToolHeads.
 
 # Adapter closure
 
-The adapters can now be secured with a M3x8mm screw.
+The adapters can now be secured with a M3x6mm screw.
 
 <img width="400px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/f8cf3c78-fd88-4100-a50b-e0ff538529d5" />
 
