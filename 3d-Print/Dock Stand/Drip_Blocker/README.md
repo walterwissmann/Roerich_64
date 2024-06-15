@@ -36,7 +36,7 @@ The drip blocker closes the nozzle during its waiting time until it is removed f
 | Now the clip can also be closed on the right side so that the silicone band lies tightly around the pin. Finished |<img width="300px" src="https://github.com/walterwissmann/Roerich_64/assets/42293697/604a1aff-1ff5-4dff-9632-7661ae7b6f95" />
 | Now you can screw the Drip-Blocker to the Adapter | <img width="300px" src= "https://github.com/walterwissmann/Roerich_64/assets/42293697/9e6678ec-09a0-4420-b6d2-d2b65fa25850" />
 
-![grafik]()
+
 
 
 
