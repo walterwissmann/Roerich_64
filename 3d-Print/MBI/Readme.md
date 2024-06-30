@@ -18,6 +18,10 @@ A DIN ISO 7380-1 M3x6mm and a 1mmx150mm Pianowire
 ![image](https://github.com/walterwissmann/Roerich_64/assets/42293697/85beeb6e-0ed2-4771-a3b6-6b27af38f573)
 ![image](https://github.com/walterwissmann/Roerich_64/assets/42293697/736af6fd-28cf-4fe3-8aea-dc76f16fe06c)
 ![image](https://github.com/walterwissmann/Roerich_64/assets/42293697/9e0b3f11-9464-47f6-9615-5e38a0f90b32)
+ECAS04 with Run-Out-Switch. Thanks for inspiration: [@MapleLeafMakers](https://github.com/MapleLeafMakers/V0_Upper_Rear_Bowden_Inlet)
+The switch was switched with a 3x6 Magnet:
+![image](https://github.com/walterwissmann/Roerich_64/assets/42293697/71892c9d-0931-4911-b72c-aadfa779e125)
+![image](https://github.com/walterwissmann/Roerich_64/assets/42293697/4f2f123d-a490-48d6-a544-1bd3a1baa1d2)
 
 
 ![image](https://github.com/walterwissmann/Roerich_64/assets/42293697/f9d26f05-f6e2-4413-bc36-7af7f92e3730)
