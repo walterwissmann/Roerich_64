@@ -14,8 +14,8 @@
 
 ||||
 |---|---|---|
-| Belt-Keeper | It is small (2mm) and you can open and close it easy | <img width="256px" src="https://github.com/user-attachments/assets/2531f441-4561-41da-87af-4e08cdb4dca2" />||
-| V-Changer | Most and easy printable Changer-System | <img width="256px" src="https://github.com/user-attachments/assets/edf590ce-7dd4-444b-b01d-f9b58362d640" />
+| [Belt-Keeper](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/Belt-Keeper/Readme.md) | It is small (2mm) and you can open and close it easy | <img width="256px" src="https://github.com/user-attachments/assets/2531f441-4561-41da-87af-4e08cdb4dca2" />||
+| [V-Changer](https://github.com/walterwissmann/Roerich_64/blob/Main/3d-Print/V-Changer/Readme.md) | Most and easy printable Changer-System | <img width="256px" src="https://github.com/user-attachments/assets/edf590ce-7dd4-444b-b01d-f9b58362d640" />
 
 
 ## Credits
