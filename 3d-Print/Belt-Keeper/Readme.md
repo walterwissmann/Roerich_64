@@ -33,6 +33,7 @@ Now have a look how to install the Belt-Keeper to the Printer:
 |Install the right part of the Belt-Keeper and attach it to the cartridge as well|<img width="256px" src="https://github.com/user-attachments/assets/34cbeda9-7fcf-48f8-85a3-7caa74a9fda3" /> | <img width="256px" src="https://github.com/user-attachments/assets/27338074-7557-4647-9afb-46b248525f5b" />
 |At last you can losen the clamp and screws and tighten the belts with the tensioners as needet | <img width="256px" src="https://github.com/user-attachments/assets/161717e5-692c-43a2-8222-a4def1c57c1c" />
 
+Happy Printing ;-)
 
 
 
