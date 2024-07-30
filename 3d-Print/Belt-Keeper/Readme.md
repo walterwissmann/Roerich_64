@@ -31,7 +31,7 @@ Now have a look how to install the Belt-Keeper to the Printer:
 |Install the left belts on the left part of the Belt-Keeper and screw them at the carriage and clamp them to the X-achsis| <img width="256px" src="https://github.com/user-attachments/assets/42e08e27-2f15-4374-a8e4-56c077abbdfa" /> | <img width="256px" src="https://github.com/user-attachments/assets/ee087661-316f-4fa4-b632-a7600714da41" />
 |Now hold the right end of the belt tightly against the right side of the carriage to cut off the belts directly at the right end of the carriage|<img width="400px" src="https://github.com/user-attachments/assets/e42599b6-cde2-46c4-843c-1b4e81065f4b" />
 |Install the right part of the Belt-Keeper and attach it to the cartridge as well|<img width="256px" src="https://github.com/user-attachments/assets/34cbeda9-7fcf-48f8-85a3-7caa74a9fda3" /> | <img width="256px" src="https://github.com/user-attachments/assets/27338074-7557-4647-9afb-46b248525f5b" />
-|At last you can losen the clamp and screws and tighten the belts as needet | <img width="256px" src="https://github.com/user-attachments/assets/161717e5-692c-43a2-8222-a4def1c57c1c" />
+|At last you can losen the clamp and screws and tighten the belts with the tensioners as needet | <img width="256px" src="https://github.com/user-attachments/assets/161717e5-692c-43a2-8222-a4def1c57c1c" />
 
 
 
