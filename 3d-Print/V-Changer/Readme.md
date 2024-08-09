@@ -1,15 +1,15 @@
-# V-Changer
+# R64-Changer
 
 
 ## Parts
 
-### V-Changer4_1xMagnet
+### R64-Changer4_1xMagnet
 - The micro-switch: https://www.ebay.de/itm/175888046420 
 - 2 M2x10 self-tapping screw: https://www.ebay.de/itm/134529976593
 - 1 Magnet N52 3x6mm such as these: https://www.ebay.de/itm/184554725486
 - 4 heat press insert M3x5x4: https://www.ebay.de/itm/224869782109
 
-### V-Changer Shuttle
+### R64-Changer Shuttle
 - 1 Magnet N52 3x6mm such as these: https://www.ebay.de/itm/184554725486
 - 4 M3x6 DIN/ISO 7380: https://www.ebay.de/itm/274694137775 
 
